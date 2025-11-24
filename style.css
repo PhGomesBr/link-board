@@ -20,7 +20,7 @@ body {
 .header-bg {
     position: fixed;
     inset: 0;
-    background: url("https://images.unsplash.com/photo-1494587351196-bbf5f29cff42?auto=format&w=1300&q=80") center/cover no-repeat;
+    background: url("img/Gemini_Generated_Image_mg8fammg8fammg8f.png") center/cover no-repeat;
     filter: brightness(40%) blur(3px);
     z-index: -1;
 }
